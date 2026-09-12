@@ -1,42 +1,232 @@
-<h1 align="center">Hi 👋, I'm RODNEY ACHOTA</h1>
-<h3 align="center">A passionate Full-Stack Developer from Kenya</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirikwa-jnr&label=Profile%20views&color=0e75b6&style=flat" alt="sirikwa-jnr" /> </p>
+# 👋 Hi, I'm Rodney Achota
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirikwa-jnr" alt="sirikwa-jnr" /></a> </p>
+### 💻 Full-Stack Developer | Software Developer | BSc IT Student
 
-- 🔭 I’m currently working on **Building my first full-stack project — a portfolio site**
+**Building practical solutions. Learning continuously. Turning ideas into code. 🚀**
 
-- 🌱 I’m currently learning **React, Node.js, Express, MongoDB, and GSAP animations**
+<a href="https://github.com/sirikwa-jnr">
+  <img src="https://img.shields.io/badge/GitHub-sirikwa--jnr-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:achotarodney@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-- 👯 I’m looking to collaborate on **Open-source React & Vue projects**
+</div>
 
-- 🤝 I’m looking for help with **Backend architecture and deploying apps to production**
+---
 
-- 💬 Ask me about **React, Vue, and GSAP**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **achotarodney@gmail.com**
+I'm **Rodney Achota**, a Bachelor of Science in Information Technology student at **Kaimosi Friends University**, passionate about building software and web applications.
 
-- 📄 Know about my experiences [https://my.smartresume.com/index.php?id=view-688AE310-110C-8036-0629-71FE395041CF](https://my.smartresume.com/index.php?id=view-688AE310-110C-8036-0629-71FE395041CF)
+My interests are mainly in **full-stack development, software development, web technologies, databases, and mobile applications**.
 
-- ⚡ Fun fact **I once fixed a bug by restarting the server**
+I enjoy taking an idea, breaking it down into smaller problems, writing code, testing solutions, and improving the final product.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sirikwa jnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirikwa jnr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maululwa joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maululwa joel" height="30" width="40" /></a>
-<a href="https://instagram.com/szoboszlairodney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szoboszlairodney" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rodney achota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodney achota" height="30" width="40" /></a>
+I'm currently focused on growing my practical development skills through personal projects, academic projects, and continuous learning.
+
+* 🎓 BSc Information Technology
+* 💻 Interested in Full-Stack & Software Development
+* 🌐 Passionate about Web Development
+* 📱 Exploring Android Development
+* 🗄️ Interested in Database-driven applications
+* 🤖 Exploring Artificial Intelligence
+* 🌱 Always learning and building
+* 🤝 Open to collaboration and development opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Web Development
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/0114051151"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0114051151" /></a><a href="https://ko-fi.com/0114051151"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0114051151" /></a></p><br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirikwa-jnr&show_icons=true&locale=en&layout=compact" alt="sirikwa-jnr" /></p>
+### Backend & Database
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirikwa-jnr&show_icons=true&locale=en" alt="sirikwa-jnr" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirikwa-jnr&" alt="sirikwa-jnr" /></p>
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,java" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+I'm interested in building applications across different areas of software development:
+
+| Area                    | Focus                                    |
+| ----------------------- | ---------------------------------------- |
+| 🌐 Web Development      | Responsive websites and web applications |
+| ⚙️ Software Development | Practical software solutions             |
+| 🗄️ Database Systems    | Database-driven applications             |
+| 📱 Mobile Development   | Android applications                     |
+| 💻 Programming          | Java, C/C++, Python and JavaScript       |
+| 🤖 AI                   | Exploring practical applications of AI   |
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+My personal developer portfolio showcasing my background, technical skills, projects and learning journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🗄️ PHP/MySQL Application
+
+A database-driven application developed to practice backend development, database management and web application design.
+
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+### 📱 Android Application
+
+An Android application developed while exploring mobile application development and software design.
+
+**Tech:** Java • Android Studio
+
+---
+
+### ☕ Java Projects
+
+A collection of Java programs created to strengthen my understanding of object-oriented programming, problem solving and application development.
+
+**Tech:** Java
+
+---
+
+### 💻 C/C++ Projects
+
+Programming projects and exercises focused on programming fundamentals, algorithms, problem solving and computational thinking.
+
+**Tech:** C • C++
+
+---
+
+### 🎓 Academic Projects
+
+A collection of projects developed through my Information Technology coursework, combining theoretical knowledge with practical implementation.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sirikwa-jnr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirikwa-jnr&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sirikwa-jnr&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🏆 Certifications & Learning
+
+### IBM SkillsBuild
+
+* **Web Development Fundamentals** — IBM SkillsBuild, May 2026
+* **AI Literacy** — IBM SkillsBuild, May 2026
+
+My Web Development Fundamentals credential covers web development concepts and the development, deployment and testing of websites using technologies including HTML, CSS and JavaScript.
+
+My AI Literacy credential covers foundational AI concepts, AI applications, benefits and risks, AI ethics, and practical use of AI interfaces.
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Full-Stack Development
+        ↓
+Frontend Development
+        ↓
+Backend Development
+        ↓
+Database Management
+        ↓
+APIs & Application Integration
+        ↓
+Software Engineering
+        ↓
+Better, More Scalable Applications 🚀
+```
+
+I'm continuously improving my knowledge of modern development practices while building projects that solve practical problems.
+
+---
+
+## 🎯 Career Goals
+
+My long-term goal is to become a highly skilled **Full-Stack Software Developer** capable of designing, developing and maintaining complete applications.
+
+I'm particularly interested in opportunities that allow me to:
+
+* Build real-world applications
+* Work with experienced developers
+* Contribute to meaningful projects
+* Strengthen my software engineering skills
+* Learn modern development technologies
+* Solve real-world problems through technology
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sirikwa-jnr">
+<img src="https://img.shields.io/badge/GitHub-sirikwa--jnr-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:achotarodney@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-achotarodney%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Improve."
+
+⭐ Thanks for visiting my profile!
+
+</div>
