@@ -1,10 +1,18 @@
 <div align="center">
 
 # 👋 Hi, I'm Rodney Achota
+🌐 **Portfolio:** (https://rodney-achota-portfolio.vercel.app)
+💻 **BSc IT Student** @ Kaimosi Friends University
 
-### 💻 Full-Stack Developer | Software Developer | BSc IT Student
+### 💻 Full-Stack Developer | Software Developer 
 
 **Building practical solutions. Learning continuously. Turning ideas into code. 🚀**
+
+## 🚀 What I Build
+- Full-stack web apps (HTML, CSS, JS, PHP)
+- Android apps (Java, Android Studio)
+- Dockerized development environments
+- Database-driven systems (MySQL, SQL Server)
 
 <a href="https://github.com/sirikwa-jnr">
   <img src="https://img.shields.io/badge/GitHub-sirikwa--jnr-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -92,6 +100,7 @@ I'm interested in building applications across different areas of software devel
 ### 🌐 Personal Portfolio Website
 
 My personal developer portfolio showcasing my background, technical skills, projects and learning journey.
+(https://rodney-achota-portfolio.vercel.app)
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -208,6 +217,11 @@ I'm particularly interested in opportunities that allow me to:
 ---
 
 ## 🤝 Let's Connect
+
+## 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/rodney-achota-b06263335)
+- [Instagram](https://instagram.com/szoboszlairodney)
+- [Portfolio](https://rodney-achota-portfolio.vercel.app)
 
 <div align="center">
 
